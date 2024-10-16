@@ -1,2 +1,2 @@
 
-URL:  https://mariakious.github.io/
+permalink: /URL-PATH:  https://mariakious.github.io/
